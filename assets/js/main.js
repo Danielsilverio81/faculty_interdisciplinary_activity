@@ -1,3 +1,4 @@
+//Código para a função cancelar...
 const pressClear = document.querySelector('.clear')
 function clear (pressC) {
     pressC.onclick = function (e) {
