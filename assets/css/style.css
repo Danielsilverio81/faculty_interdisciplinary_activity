@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#container {
+    margin: 5px auto;
+    padding: 10px;
+    background-color: cornflowerblue;
+    border: 2px solid gray;
+    width: 400px;
+}
+
+input {
+    padding: 9px;
+    margin: 5px;
+    display: block;
+    border-top-right-radius: 10px;
+}
+
+button {
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: chocolate;
+} 
+button:hover {
+    cursor: pointer;
+    background-color: aliceblue;
+    color: red;
+}
