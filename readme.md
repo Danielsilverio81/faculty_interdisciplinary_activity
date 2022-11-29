@@ -16,3 +16,6 @@ ___________
 GitHub repository for the completed page, where you can access the code to install it on your machine and see how it works: https://github.com/Danielsilverio81/faculty_interdisciplinary_activity
 
 Necessary: install node, go to your node terminal and install in the project dependencies, express using npm i –save express and with it the Body-Parser using npm i –save body-parser , after these processes start the server by node, then the project should run and work as requested...
+
+
+![activity2](https://user-images.githubusercontent.com/92233752/204642415-c2fa0a18-535c-4a8c-b2e1-48ec9b5e2dc5.gif)
